@@ -10,3 +10,6 @@ console.log('Hello World!');
 
 ## Explanation
 Using console.log, the "Hello World!" message is being console logged.
+
+## Navigate to codebase
+> [helloWorld.ts](helloWorld.ts)
