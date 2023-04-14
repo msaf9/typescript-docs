@@ -13,6 +13,8 @@ A curation of TypeScript documents.
 
 ## Introduction
 
+<p>A repository for TypeScript support and documentation.</p>
+
 ## Technologies
 
 - TypeScript
