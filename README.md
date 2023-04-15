@@ -1,5 +1,5 @@
 <h1> TypeScript Docs </h1>
-A curation of TypeScript documents.
+A curation of TypeScript concepts.
 
 ## Table of contents
 
