@@ -19,6 +19,8 @@ A curation of TypeScript concepts.
 
 - TypeScript
 - Node.js
+- VS Code
+- [Playground](https://www.typescriptlang.org/play)
 
 ## Project status
 
