@@ -4,7 +4,7 @@ A curation of TypeScript concepts.
 <h2> Table of Contents </h2>
 
 - [Introduction](#introduction)
-- [Technologies](#technologies)
+- [Tools](#tools)
 - [Project status](#project-status)
 - [Installation](#installation)
   - [Get repository](#get-repository)
