@@ -34,3 +34,5 @@ cd typescript-docs
 ```
 
 ## License
+
+[LICENSE](LICENSE)
