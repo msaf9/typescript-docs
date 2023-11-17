@@ -1,9 +1,8 @@
 <h1> TypeScript Docs </h1>
 A curation of TypeScript concepts.
 
-## Table of contents
+<h2> Table of Contents </h2>
 
-- [Table of contents](#table-of-contents)
 - [Introduction](#introduction)
 - [Technologies](#technologies)
 - [Project status](#project-status)
