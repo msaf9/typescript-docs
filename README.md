@@ -14,7 +14,7 @@ A curation of TypeScript concepts.
 
 <p>A repository for TypeScript support and documentation.</p>
 
-## Technologies
+## Tools
 
 - TypeScript
 - Node.js
