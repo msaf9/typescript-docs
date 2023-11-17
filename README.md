@@ -29,8 +29,8 @@ A curation of TypeScript concepts.
 ### Get repository
 
 ```git
-git clone https://github.com/msaf9/TypescriptDocs.git
-cd TypescriptDocs
+git clone https://github.com/msaf9/typescript-docs.git
+cd typescript-docs
 ```
 
 ## License
