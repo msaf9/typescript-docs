@@ -25,3 +25,25 @@ npm install -g typescript
 ```
 
 > Any IDE can be of choice.*
+
+## Topics
+
+A list of TypeScript topics:
+
+1. [Hello World](01_HELLOWORLD.md)
+2. [Variables](02_VARIABLES.md)
+3. Types
+4. Arrays
+5. Tuples
+6. Object Types
+7. Enums
+8. Aliases & Interfaces
+9. Union Types
+10. Functions
+11. Casting
+12. Classes
+13. Generics
+14. Utility Types
+15. Keyof
+16. Null
+17. Definitely Typed
