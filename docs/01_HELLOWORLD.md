@@ -12,4 +12,4 @@ console.log('Hello World!');
 Using console.log, the "Hello World!" message is being console logged.
 
 ## Navigate to codebase
-> [helloWorld.ts](helloWorld.ts)
+> [helloWorld.ts](../src/01_HelloWorld/helloWorld.ts)
