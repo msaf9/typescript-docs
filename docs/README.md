@@ -20,8 +20,16 @@ VS Code can be downloaded from [visualstudio.com](https://code.visualstudio.com/
 
 TypeScript installation command: 
 
+##### Using node
+
 ```node
 npm install -g typescript
+```
+
+##### Using Homebrew
+
+```brew
+brew install typescript
 ```
 
 > Any IDE can be of choice.*
@@ -32,7 +40,7 @@ A list of TypeScript topics:
 
 1. [Hello World](01_HELLOWORLD.md)
 2. [Variables](02_VARIABLES.md)
-3. Types
+3. [Types](03_TYPES.md)
 4. Arrays
 5. Tuples
 6. Object Types
