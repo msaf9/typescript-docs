@@ -15,5 +15,5 @@ let nullValue: null = null;
 ## Explanation
 Using console.log, the variables are console logged.
 
-## Navigate to codebase
+## Navigate to code
 > [variables.ts](../src/02_Variables/variables.ts)
