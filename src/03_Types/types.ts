@@ -19,8 +19,10 @@ console.log(thisIsAString);
 console.log(thisIsAnInteger);
 console.log(thisIsABoolean);
 console.log(thisIsAnArray);
+
 // Return ENUM number
 console.log(thisIsAnENUM.ENUM2);
+
 // Return ENUM value
 console.log(enumValue);
 console.log(thisCanBeAny);
