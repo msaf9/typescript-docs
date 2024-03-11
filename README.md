@@ -1,7 +1,7 @@
 <h1> TypeScript Docs </h1>
 A curation of TypeScript concepts.
 
-<h2> Table of Contents </h2>
+<h2> Table of contents </h2>
 
 - [Introduction](#introduction)
 - [Tools](#tools)
